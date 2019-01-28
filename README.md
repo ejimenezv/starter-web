@@ -20,7 +20,7 @@ I am writing nonsense
 
 ## Copyright
 
-2019 Enjimenez
+2019 Enjimenez. All rights reserved
 
 ## How to contribute
 
