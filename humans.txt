@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Enrique Jimenez    enjimenez@live.com.mx
 
 # THANKS
 
