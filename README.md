@@ -19,3 +19,7 @@ I am writing nonsense
 ## Copyright
 
 2019 Enjimenez
+
+## How to contribute
+
+Please fork and issue pull request
